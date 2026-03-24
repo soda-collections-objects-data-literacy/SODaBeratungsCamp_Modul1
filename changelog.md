@@ -16,6 +16,7 @@ Dokumentation und Metadaten, Cluster 3 (angepasst an die Bedarfe der Konservieru
 2\.5 Den Prozess der Konservierung-Restaurierung (als Inhalt einer Datendokumentation) benennen. (LZ-ID SODa\_03\_01\_0600b)
   - korrigieren zu: (LZ-ID SODa\_03\_001\_0600b)
 #### M1E2_KuRGrundlagen
-- 
+- Zeile 198:
+Fußnote ergänzen
 
 
