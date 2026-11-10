@@ -15,6 +15,11 @@ Dokumentation und Metadaten, Cluster 3 (angepasst an die Bedarfe der Konservieru
 - Zeile 117:
 2\.5 Den Prozess der Konservierung-Restaurierung (als Inhalt einer Datendokumentation) benennen. (LZ-ID SODa\_03\_01\_0600b)
   - korrigieren zu: (LZ-ID SODa\_03\_001\_0600b)
+- Zeile 125:
+2\.9 Metadatenstandards für Konservierungs- und Restaurierungsmaßnahmen benennen (LZ-ID SODa\_03\_003\_0646a) und ...Thesauri zur Beschreibung von Konservierungs- und Restaurierungsmaßnahmen benennen. (LZ-ID SODa\_03\_006\_0752a)
+  - korrigieren zu:
+2\.9 Metadatenstandards für Konservierungs- und Restaurierungsmaßnahmen benennen. (LZ-ID SODa\_03\_003\_0646a)
+2\.10 Thesauri zur Beschreibung von Konservierungs- und Restaurierungsmaßnahmen benennen. (LZ-ID SODa\_03\_006\_0752a)
 #### M1E2_KuRGrundlagen
 - Zeile 198:
 Fußnote ergänzen
